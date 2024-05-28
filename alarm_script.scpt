@@ -1,0 +1,1 @@
+do shell script "sleep 1170 && afplay /System/Library/Sounds/Glass.aiff"
